@@ -1,0 +1,24 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "aplikasi rest-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowarth/rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flowarth/rest-api/issues"
+  },
+  "homepage": "https://github.com/flowarth/rest-api#readme"
+}
